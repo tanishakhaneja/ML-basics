@@ -1,0 +1,7 @@
+﻿venv/
+**/venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+pandas/data/survey_results_public (1).csv
+pandas/data/survey_results_schema.csv
